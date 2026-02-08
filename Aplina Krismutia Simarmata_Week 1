@@ -1,0 +1,202 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Roboto;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Gotham Narrow";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+h1
+	{margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:20.0pt;
+	font-family:"Arial",sans-serif;
+	font-weight:normal;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:26.0pt;
+	font-family:"Arial",sans-serif;}
+.MsoChpDefault
+	{font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+.MsoPapDefault
+	{line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-ID style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoTitle style='text-align:justify'><a name="_s8wk68nnsbi1"></a><span
+lang=EN style='font-size:20.0pt;line-height:115%;font-family:"Gotham Narrow"'>Transcriptomic
+Analysis of the Effect of Glabridin on Biofilm Formation in <i>Staphylococcus
+aureus</i></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN><a
+href="https://journals.sagepub.com/doi/full/10.1089/fpd.2024.0038"><span
+style='font-size:10.5pt;line-height:115%;font-family:"Gotham Narrow";
+color:#1A73E8'>https://journals.sagepub.com/doi/full/10.1089/fpd.2024.0038</span></a></span><span
+lang=EN style='font-size:10.5pt;line-height:115%;font-family:"Gotham Narrow";
+color:#3C4043;background:white'> </span></p>
+
+<h1 style='text-align:justify'><a name="_2painh9n7ql6"></a><span lang=EN
+style='font-size:17.0pt;line-height:115%;font-family:"Gotham Narrow"'>Pendahuluan</span></h1>
+
+<p class=MsoNormal style='text-align:justify'><i><span lang=EN
+style='font-size:12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Staphylococcus
+aureus</span></i><span lang=EN style='font-size:12.0pt;line-height:115%;
+font-family:"Gotham Narrow"'> adalah salah satu bakteri patogen yang banyak
+menginfeksi makhluk hidup. Strain <i>S.aureus</i> yang resisten terhadap
+antibiotik metisilin atau yang lebih dikenal dengan <i>M</i></span><span
+lang=EN><a
+href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=Methicillin-resistant+Staphylococcus+aureus&amp;ie=UTF-8&amp;oe=UTF-8&amp;sei=4Z2IabnzO_aNseMPicHb-AI&amp;mstk=AUtExfAwNfjJUJ8yvdRe2wrHBiuiMMZ497r-hA47con20FPCFMeh92Br7nrlUposZBZSkNU7wwJDvL364_tUKhs7rJyws1zLhphKwHoYEe9OuVWy10alQUMhddxuEbNNr620FBs&amp;csui=3&amp;ved=2ahUKEwiX8ZLZjcqSAxXMT2wGHUR-J6gQgK4QegQIARAB"><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Gotham Narrow";
+color:windowtext;text-decoration:none'>ethicillin-resistant </span></i></a><a
+href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=Methicillin-resistant+Staphylococcus+aureus&amp;ie=UTF-8&amp;oe=UTF-8&amp;sei=4Z2IabnzO_aNseMPicHb-AI&amp;mstk=AUtExfAwNfjJUJ8yvdRe2wrHBiuiMMZ497r-hA47con20FPCFMeh92Br7nrlUposZBZSkNU7wwJDvL364_tUKhs7rJyws1zLhphKwHoYEe9OuVWy10alQUMhddxuEbNNr620FBs&amp;csui=3&amp;ved=2ahUKEwiX8ZLZjcqSAxXMT2wGHUR-J6gQgK4QegQIARAB"><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Gotham Narrow";
+color:windowtext;text-decoration:none'>Staphylococcus aureus</span></i></a></span><i><span
+lang=EN style='font-size:12.0pt;line-height:115%;font-family:"Gotham Narrow";
+color:#0A0A0A;background:white'> (</span></i><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow";color:#0A0A0A;background:
+white'>MRSA<i>)</i> semakin banyak terjadi sehingga kurang efektif digunakan
+mengobati infeksi dari bakteri <i>S. aureus</i> yang memicu pembentukan
+biofilm. Biofilm bisa menyebabkan infeksi kronis dan menghambat penanganan
+penyakit secara diagnostik. Maka dari itu, pengobatan infeksi bakteri
+menggunakan antibiotik menjadi salah satu tantangan di dunia kesehatan karena
+banyak terjadi fenomena resistensi terhadap antibiotik.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow";color:#0A0A0A;background:
+white'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow";color:#0A0A0A;background:
+white'>Glabridin (Glb) adalah senyawa flavonoid yang diekstraksi dari <i>Glycyrrhiza
+glabra</i> dan memiliki kandungan anti virus dan anti bakteri. Akan tetapi
+studi terbaru mengenai Glb sebagai anti biofilm akan bakteri <i>S. aureus</i>
+masih harus aktif dilakukan. Maka dari itu, melalui penelitian ini akan
+dipaparkan efek Glb terhadap biofilm yang dihasilkan dari bakteri <i>S. aureus</i>
+dan potensi perannya sebagai solusi bagi infeksi bakteri dan resistensi
+obat/antibiotik.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-family:
+"Gotham Narrow"'>&nbsp;</span></p>
+
+<h1 style='text-align:justify'><a name="_locw6zfc1l5f"></a><span lang=EN
+style='font-size:17.0pt;line-height:115%;font-family:"Gotham Narrow"'>Metode</span></h1>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Pada penelitian ini
+digunakan isolat klinis <i>S. aureus</i> strain ATCC 33591 dari Laboratorium
+Farmakologi Kedokteran Hewan Universitas Ningxia dan strain NCTC 8325 yang
+dibeli dari Perusahaan Bioteknologi Hongsai Hangzhou. Lalu dilakukan uji gen
+mecA pada isolat klinis <i>S. aureus </i>dan perhitungan konsentrasi hambat
+minimumnya. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Bakteri dengan isolat
+strain MRSA standar (ATCC 33591) dan isolat strain MRSA klinis (SCL dan ZD2)
+ditumbuhkan untuk hasilkan strain bakteri yang menghasilkan biofilm.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Setelah itu dilakukan
+deteksi pengaruh Glabridin (Glb) dalam biofilm pada strain <i>S. aureus</i>
+NCTC 8325, JY10, SCL, dan ZD2 dengan perlakuan konsentrasi dan dilusi yang
+berbeda-beda. Tujuannya adalah untuk menunjukkan Glb bekerja efektif pada
+konsentrasi berapa.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Setelah itu dilakukan
+perhitungan kurva pertumbuhan bakteri untuk mengukur pengaruh Glb terhadap
+proliferasi <i>S. aureus </i>dengan strain biasa (ATCC 29213 dan NCTC 8325) dan
+strain MRSA (SCL dan ZD2). Ketika strain yang memiliki biofilm sudah
+ditumbuhkan, dilakukan analisis biofilm menggunakan mikroskop elektron (SEM).
+setelah itu dilakukan analisis dengan RNA Sequencing dan validasi sekuensing
+menggunakan qRT-PCR. Tahap terakhir yang dilakukan dalam penelitian ini adalah
+analisis statistik.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-family:
+"Gotham Narrow"'>&nbsp;</span></p>
+
+<h1 style='text-align:justify'><a name="_8ebzy64lqgsb"></a><span lang=EN
+style='font-size:17.0pt;line-height:115%;font-family:"Gotham Narrow"'>Hasil dan
+Pembahasan</span></h1>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Gen mecA ditemukan dalam <i>S.
+aureus</i> strain SCL dan ZD2 (MRSA). Bakteri MRSA pertumbuhannya dihambat
+total dengan Glb pada konsentrasi 8 ug/mL dan 50% biofilm akan berkurang
+menggunakan konsentrasi Glb sebesar 2 ug/mL. Pengamatan biofilm dengan
+mikroskop elektron menunjukkan bahwa semakin tinggi konsentrasi Glb yang
+diberikan makan koloni biofilm akan semakin berkurang. Total ada 184 DEGs yang
+terkumpul saat dilakukan analisis RNA-seq dengan rincian upregulated gen 81 dan
+downregulated gen 103.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Metode <i>in vitro assays</i>
+dan transkriptomik sekuensing dapat digunakan untuk mengetahui pengaruh
+Glabridin (Glb) pada biofilm <i>S.aureus</i> dan mengetahui regulasi faktor
+transkripsinya. Uji menggunakan <i>crystalline violet binding assay</i>
+terbukti dapat menunjukkan konsentrasi Glb yang menghambat pembentukan biofilm
+MRSA. Transkriptomik menunjukkan bahwa Glb melakukan upregulated terhadap gen <i>AgrC,
+AgrA,</i> dan <i>AgrB</i>. lalu Glb melakukan downregulated ekspresi gen yang
+mengkode EIIABC kemudian NarGHI dan NxrAB dalam kelompok glukosa dan fruktosa.
+Studi ini dengan utama menjelaskan peran Glb dalam pembentukan biofilm pada <i>S.
+aureus</i> serta menyediakan teori pendukung untuk antibiofilm dan anti infeksi
+drug development.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN style='font-size:
+12.0pt;line-height:115%;font-family:"Gotham Narrow"'>Kesimpulan dari penelitian
+ini adalah Glabridin (Glb) dapat mempengaruhi pembentukan biofilm dengan
+menghambat sekresi eDNA. Melalui validasi menggunakan qRT-PCR konsentrasi sub
+inhibitor Glb terlibat dalam mengatur ekspresi protein adhesi dan yang terkait
+dengan biofilm MRSA. Studi ini dapat menawarkan dasar teoritis untuk
+mengembangkan senyawa alami sebagai alternatif obat anti infeksi dan mengatasi
+resistensi obat/antibiotik.</span></p>
+
+</div>
+
+</body>
+
+</html>
